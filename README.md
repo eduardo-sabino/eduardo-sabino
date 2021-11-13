@@ -16,7 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://eduardosabino.netlify.app/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](httpshttps://www.linkedin.com/in/eduardo-sabino/)
 
 #
-    
+### More:
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-sabino&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-sabino&layout=compact&theme=radical)](https://github.com/eduardo-sabino/github-readme-stats)
 
 
