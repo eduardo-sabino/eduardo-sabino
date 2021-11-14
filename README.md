@@ -1,6 +1,6 @@
 # Hi there! My name is Eduardo ✌️
 - 💻 Full Stack Web Developer
-- 👨‍🎓 Graduated in Information Technology from Etec Fernando Prestes (2017 - 2020)
+- 👨‍🎓 Graduated in Information Technology from Etec Fernando Prestes (2018 - 2020)
 - 📚 Currently taking online courses
 - 👨‍💻 Open to work
 
